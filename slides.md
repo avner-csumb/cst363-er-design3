@@ -59,3 +59,62 @@ After this lecture, you should be able to:
 ## Attributes of entity sets
 
 
+---
+
+## Primary keys of entity sets
+
+indicate the attributes that form the primary key of an entity set:
+
+
+---
+
+## Attributes of relationship sets
+
+Put attributes of relationship sets:
+
+
+---
+
+## Mapping cardinalities
+
+Show that each a student can have at most one advisor:
+
+
+---
+
+## All kinds of mapping cardinalities
+
+
+
+---
+
+## Crow’s Foot — 1:1
+
+
+---
+
+## Crow’s Foot — 1:M
+
+<img src="/images/crow2.PNG" />
+
+- Each instructor can advise multiple students.
+- Each student may have an advisor (optional).
+
+
+
+---
+
+## ER diagram for a university
+
+
+
+---
+
+## Summary
+
+- ER models can be visualized.
+- This helps the data designer, and also helps when sharing a model with stateholders.
+- One complication is “weak entity sets”.
+
+
+
