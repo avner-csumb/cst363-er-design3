@@ -373,9 +373,13 @@ erDiagram
 
 <br>
 
+<v-clicks>
+
 - Each instructor can advise multiple students.
 - Each student may have an advisor (optional).
 
+
+</v-clicks>
 
 </div>
 
