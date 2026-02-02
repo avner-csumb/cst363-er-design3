@@ -32,10 +32,14 @@ CST 363
 <div class="p-5">
 
 After this lecture, you should be able to:
+
+<v-clicks>
+
 - Draw diagrams from ER models
 - Define "weak entity set"
 - Be able to distinguish weak and strong entity sets
 
+</v-clicks>
 
 </div>
 
