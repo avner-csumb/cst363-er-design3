@@ -49,10 +49,16 @@ After this lecture, you should be able to:
 
 <div class="p-5">
 
+<v-clicks>
+
 
 - We want to share the conceptual design with a wide range of stakeholders 
 - Most stakeholders won’t know about database schemas or conceptual modeling
 - How to share a conceptual model?
+
+
+</v-clicks>
+
 
 </div>
 
