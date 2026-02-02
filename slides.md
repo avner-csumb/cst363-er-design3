@@ -362,6 +362,29 @@ erDiagram
 </div>
 
 
+---
+
+
+## Crow’s Foot — 1:M
+
+<div class="p-5">
+
+
+<img src="/images/crow2.png"  class="w-120" />
+
+<br>
+
+<v-clicks>
+
+- Each instructor can advise multiple students.
+- Each student may have an advisor (optional).
+
+
+</v-clicks>
+
+</div>
+
+
 
 ---
 
